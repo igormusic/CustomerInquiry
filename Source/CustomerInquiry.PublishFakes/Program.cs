@@ -13,7 +13,7 @@ namespace CustomerInquiry.PublishFakes
         {
 
             var numberOfCustomers =10;
-            string kafkaUrl = "192.168.0.126:9092";
+            string kafkaUrl = "localhost:9092";
             string kafkaTopic ="customers";
 
             ArgumentSyntax.Parse(args, syntax =>
