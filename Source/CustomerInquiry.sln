@@ -7,6 +7,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CustomerInquiry.Model", "Cu
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CustomerInquiry.PublishFakes", "CustomerInquiry.PublishFakes\CustomerInquiry.PublishFakes.xproj", "{DAA7E18D-B94D-4946-9EC4-1C64D53627CA}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "CustomerInquiry.Consumer", "CustomerInquiry.Consumer\CustomerInquiry.Consumer.xproj", "{C31AD935-2CEF-47A0-B6D9-1C2AB6BD933C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DAA7E18D-B94D-4946-9EC4-1C64D53627CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAA7E18D-B94D-4946-9EC4-1C64D53627CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAA7E18D-B94D-4946-9EC4-1C64D53627CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C31AD935-2CEF-47A0-B6D9-1C2AB6BD933C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C31AD935-2CEF-47A0-B6D9-1C2AB6BD933C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C31AD935-2CEF-47A0-B6D9-1C2AB6BD933C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C31AD935-2CEF-47A0-B6D9-1C2AB6BD933C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

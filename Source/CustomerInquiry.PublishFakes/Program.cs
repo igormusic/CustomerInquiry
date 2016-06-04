@@ -33,7 +33,7 @@ namespace CustomerInquiry.PublishFakes
                 publisher.Publish(customerJSON);
             }
 
-           
+            Console.WriteLine("Done publishing fakes, press enter to stop exit");
             Console.ReadLine();
         }
     }
